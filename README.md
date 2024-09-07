@@ -12,6 +12,13 @@ This integral is performed as flux wrt a wavelength band, typically +- 1 angstro
 In particular, I am inquiring about how to properly propagate the flux error across the integral. 
 
 -------------
+
+Two example plots are present, the "x1d" shows a selection of the current data with previously calculated error bars.
+The "lightcurve" provides a demonstration of our final product without error bars.
+Specifically, this light curve is from integrated from 1393 to 1395 Angstroms.
+We are looking to propogate the error present in the 'x1d' to the 'lightcurve'
+
+-------------
 To limit the amount of useless junk, Si_IV_n2q_x1d_30s_csv.zip contains a selection of data from the overall experiment.
 TO AQUIRE TIME VALUE, MULTIPLY FILE NUM BY 30 SECONDS
 
@@ -29,4 +36,5 @@ https://www.stsci.edu/files/live/sites/www/files/home/hst/instrumentation/cos/do
 
 Detailed information about the COS Detector can be found:
 https://www.stsci.edu/files/live/sites/www/files/home/hst/instrumentation/cos/documentation/_documents/COS_dhb.pdf
---------------
+
+---------
