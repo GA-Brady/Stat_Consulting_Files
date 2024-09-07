@@ -13,6 +13,7 @@ In particular, I am inquiring about how to properly propagate the flux error acr
 
 -------------
 To limit the amount of useless junk, Si_IV_n2q_x1d_30s_csv.zip contains a selection of data from the overall experiment.
+TO AQUIRE TIME VALUE, MULTIPLY FILE NUM BY 30 SECONDS
 
 Overview of the csv formats:
 Wavelenth:         Covers a range from 1393 to 1395 angstrom. Cut down from the original 1200 - 1480 Angstrom raw file
